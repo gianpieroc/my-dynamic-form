@@ -1,8 +1,10 @@
 # My dynamic form
 
 Node version used: 20.10.0
+
 Package manager: yarn
-*Live app* => Feel free to take a look at the application using this link: [https://my-dynamic-form-tqum.vercel.app/](https://my-dynamic-form-tqum.vercel.app/)
+
+_Live app_ => Feel free to take a look at the application using this link: [https://my-dynamic-form-tqum.vercel.app/](https://my-dynamic-form-tqum.vercel.app/)
 
 ## Run The project
 
